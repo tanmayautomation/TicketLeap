@@ -8,6 +8,6 @@ public class GITClass {
 	public void testGIT() {
 		
 		System.out.println("Test");
-		
+		System.out.println("Hello");
 	}
 }
